@@ -1,15 +1,14 @@
 # Julia Blahovistna
 ## About Me 😄
 
-Hi, I’m Julia Blahovistna! I’m a passionate data scientist and frontend developer with a strong foundation in machine learning, data analysis, and web development. My background combines technical expertise with 10 years of entrepreneurial experience, allowing me to approach problem-solving with both analytical and creative perspectives. My journey in tech spans web development, automation, and data analysis. I’m always excited to learn new technologies and collaborate on exciting projects.
+Hi, I'm Yuliia Blahovistna! I'm a frontend developer and data scientist with a strong foundation in machine learning, data analysis, and web development. My background combines technical expertise with 10 years of entrepreneurial experience, allowing me to approach problem-solving with both analytical and creative perspectives. My journey in tech spans web development, automation, and data analysis — and I'm always looking for projects where these worlds overlap.
 
+- 🌱 Currently deepening my skills in **React, Node.js**, and **AI-powered applications**
+- 🤝 Open to collaborating on **frontend projects, data science work**, and innovative web applications
+- 💬 Ask me about Python, machine learning, data analysis, and frontend development
+- 📫 How to reach me: **yublagov@gmail.com**
+- ⚡ Fun fact: I practice yoga every day! 🧘‍♀️
 
-
-- 🌱 I’m currently exploring Advanced AI models, deep learning, and data visualization.
-- 🤝 I’m looking to collaborate on Data science projects, open-source contributions, and innovative web applications.
-- 💬 Ask me about Python, machine learning, data analysis, and frontend development.
-- 📫 How to reach me: [yublagov@gmail.com.com](yublagov@gmail.com)
-- ⚡ Fun fact:  I practice yoga every day! 🧘‍♀️
 
 ## 📚 My Writing & Content
 
