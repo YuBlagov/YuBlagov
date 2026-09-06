@@ -12,7 +12,7 @@ Hi, I'm Yuliia! I'm a Frontend Developer based in Stockholm, currently studying 
 
 ## 🕹️ Frontend & Game Dev Projects
 
-- 🎰 [Lucky Reels](https://github.com/YuBlagov/lucky-reels) — a from-scratch vanilla JS/CSS slot machine with weighted-random reels, animated paylines and win logic 🚧 *in progress*
+- 🎰 [Lucky Reels](https://github.com/YuBlagov/lucky-reels) — [live demo](https://yublagov.github.io/lucky-reels/) — a from-scratch vanilla JS/CSS slot machine with weighted-random reels, animated paylines and win logic 
 - 🔊 [Soundstate XR](https://github.com/YuBlagov/soundstate-xr) — [live demo](https://yublagov.github.io/soundstate-xr) — an immersive WebXR audio-visual experience built with A-Frame and the Web Audio API
 - 🎧 [Soundstate](https://github.com/YuBlagov/soundstate) — [live](https://soundstate.netlify.app) — the 2D React predecessor to Soundstate XR
 - 🛠️ [afisha-api](https://github.com/YuBlagov/afisha-api) — a Node.js/Express/MongoDB REST API with JWT auth, originally built for a concert-listings app, now also powering both Soundstate projects
