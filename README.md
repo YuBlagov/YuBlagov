@@ -13,14 +13,14 @@ Hi, I'm Yuliia! I'm a Frontend Developer in Stockholm with full-stack experience
 
 ## 🏢 Internship & Team Projects
 
-- 🎓 **Vefskólinn LMS** — Web Developer intern, team of 4 · *ongoing*
-  Next.js · TypeScript · styled-components · MongoDB
-  Building a learning platform for web development students, including a portfolio builder for showing work to employers.
+- 🎓 **Vefskólinn LMS** — Web Developer intern, team of 4 · *ongoing*<br>
+  Next.js · TypeScript · styled-components · MongoDB<br>
+  Building a learning platform for web development students, including a portfolio builder for showing work to employers.<br>
   [My commits](https://github.com/ellertsmari/io.vefskoliv2/commits?author=YuBlagov) · [My pull requests](https://github.com/monika-hyperisland/vefskolinn-interns/pulls?q=is%3Apr+author%3AYuBlagov)
-- 🗂️ **RedRiver** — Full Stack Developer intern · *ongoing*
-  Angular · Tailwind · ASP.NET Core · MySQL · *company project, private repository*
+- 🗂️ **RedRiver** — Full Stack Developer intern · *ongoing*<br>
+  Angular · Tailwind · ASP.NET Core · MySQL · *company project, private repository*<br>
   Building features and redesigning the interface of an internal project and task management app.
-- 📚 **BookNest** — [live](https://annetdev.github.io/BookNest/) · [repo](https://github.com/AnnetDev/BookNest)
+- 📚 **BookNest** — [live](https://annetdev.github.io/BookNest/) · [repo](https://github.com/AnnetDev/BookNest)<br>
   Team landing page for a local bookstore, built with Vite, JavaScript and SCSS at Hyper Island.
 
 ## 🧩 Full-Stack & Frontend Projects
