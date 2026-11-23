@@ -11,6 +11,18 @@ Hi, I'm Yuliia! I'm a Frontend Developer in Stockholm with full-stack experience
 - 📫 Reach me at **yublagov@gmail.com** or [LinkedIn](https://www.linkedin.com/in/yuliia-blahovistna/)
 - ⚡ Fun fact: I practice yoga every day! 🧘‍♀️
 
+## 🏢 Internship & Team Projects
+
+- 🎓 **Vefskólinn LMS** — Web Developer intern, team of 4 · *ongoing*
+  Next.js · TypeScript · styled-components · MongoDB
+  Building a learning platform for web development students, including a portfolio builder for showing work to employers.
+  [My commits](https://github.com/ellertsmari/io.vefskoliv2/commits?author=YuBlagov) · [My pull requests](https://github.com/monika-hyperisland/vefskolinn-interns/pulls?q=is%3Apr+author%3AYuBlagov)
+- 🗂️ **RedRiver** — Full Stack Developer intern · *ongoing*
+  Angular · Tailwind · ASP.NET Core · MySQL · *company project, private repository*
+  Building features and redesigning the interface of an internal project and task management app.
+- 📚 **BookNest** — [live](https://annetdev.github.io/BookNest/) · [repo](https://github.com/AnnetDev/BookNest)
+  Team landing page for a local bookstore, built with Vite, JavaScript and SCSS at Hyper Island.
+
 ## 🧩 Full-Stack & Frontend Projects
 
 - 📚 [book-quote-app](https://github.com/YuBlagov/book-quote-app) — full-stack app with an Angular frontend and an ASP.NET Core 9 Web API with JWT auth: book CRUD and personal quotes
@@ -24,9 +36,9 @@ Hi, I'm Yuliia! I'm a Frontend Developer in Stockholm with full-stack experience
 
 A few pieces from my earlier Data Science coursework:
 
-- [Wine Quality Classification](https://github.com/YuliiaB82/Data-Science/blob/master/HW07/wine.ipynb) — Decision Trees & Random Forests
-- [Bike Rental Demand Prediction](https://github.com/YuliiaB82/Data-Science/blob/master/HW09/regression_bikes.ipynb) — linear & decision tree regression
-- [Support Vector Machine Classification](https://github.com/YuliiaB82/Data-Science/blob/master/HW10/support_vector_method.ipynb) — SVM & kernel functions
+- [Wine Quality Classification](https://github.com/YuBlagov/Data-Science/blob/master/HW07/wine.ipynb) — Decision Trees & Random Forests
+- [Bike Rental Demand Prediction](https://github.com/YuBlagov/Data-Science/blob/master/HW09/regression_bikes.ipynb) — linear & decision tree regression
+- [Support Vector Machine Classification](https://github.com/YuBlagov/Data-Science/blob/master/HW10/support_vector_method.ipynb) — SVM & kernel functions
 
 ## 🛠️ Tools I Use
 
